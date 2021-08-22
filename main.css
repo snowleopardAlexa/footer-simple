@@ -15,3 +15,9 @@ body {
     background-color: #fff;
 }
 
+.footer .social-media {
+    text-align: center;
+    padding: 25px;
+    color: rgb(10, 10, 70);
+}
+
