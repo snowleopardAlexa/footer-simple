@@ -9,3 +9,9 @@ body {
     font-weight: 400;
     background-color: rgb(56, 7, 102);
 }
+
+.footer {
+    padding: 40px 0;
+    background-color: #fff;
+}
+
